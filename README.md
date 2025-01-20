@@ -33,3 +33,7 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 
 ## License
 This project is licensed under the MIT License.
+
+![WhatsApp Görsel 2025-01-20 saat 14 59 46_7458b2f6](https://github.com/user-attachments/assets/be5f4c20-015d-461b-add2-780b5633f081)
+
+![WhatsApp Görsel 2025-01-20 saat 14 59 46_6778313e](https://github.com/user-attachments/assets/15f89854-7cc9-4766-a64a-f5917c62d32d)
